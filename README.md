@@ -14,7 +14,7 @@
 I am a 3rd year CSE undergraduate student at [LNMIIT Jaipur](https://www.lnmiit.ac.in/).
 
 
-💻 **Skills**: React, HTML , CSS, JavaScript ,C++ ,DSA 
+💻 **Skills**: React, HTML, CSS, JavaScript, C++, DSA 
 
 ⚡ Fun fact: I can sketch your face in no time!
 
